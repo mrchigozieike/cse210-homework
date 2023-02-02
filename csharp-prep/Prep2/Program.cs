@@ -78,7 +78,8 @@ class Program
             Console.WriteLine("Incorect option! but continue  ");
             currentJournal.DisplayJournal();
 
-            
+
+
         }
     }
 }
